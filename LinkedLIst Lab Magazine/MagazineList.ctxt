@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=MagazineList
+comment1.params=
+comment1.target=MagazineList()
+comment2.params=mag
+comment2.target=void\ add(Magazine)
+comment3.params=mag
+comment3.target=void\ addLC(Magazine)
+comment4.params=mag
+comment4.target=void\ addRC(Magazine)
+comment5.params=
+comment5.target=java.lang.String\ toString()
+numComments=6

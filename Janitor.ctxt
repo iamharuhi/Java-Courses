@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.params=dept\ name\ num\ pay\ sw
+comment0.target=Janitor(java.lang.String,\ java.lang.String,\ int,\ int,\ boolean)
+comment1.params=sw
+comment1.target=void\ setSweeping(boolean)
+comment2.params=
+comment2.target=boolean\ getSweeping()
+comment3.params=
+comment3.target=void\ isSweeping()
+comment4.params=
+comment4.target=java.lang.String\ toString()
+numComments=5

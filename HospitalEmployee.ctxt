@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.params=n\ p\ s
+comment0.target=HospitalEmployee(int,\ int,\ java.lang.String)
+comment1.params=s
+comment1.target=void\ setName(java.lang.String)
+comment2.params=i
+comment2.target=void\ setNumid(int)
+comment3.params=p
+comment3.target=void\ setPay(int)
+comment4.params=
+comment4.target=java.lang.String\ getName()
+comment5.params=
+comment5.target=int\ getNumid()
+comment6.params=
+comment6.target=void\ work()
+comment7.params=
+comment7.target=int\ getPay()
+comment8.params=
+comment8.target=java.lang.String\ toString()
+numComments=9

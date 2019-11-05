@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Review1
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=n\ m
+comment2.target=boolean\ isMultiple(long,\ long)
+comment3.params=i
+comment3.target=boolean\ isEven(int)
+comment4.params=i
+comment4.target=int\ oddSum(int)
+comment5.params=s
+comment5.target=int\ numVowels(java.lang.String)
+numComments=6

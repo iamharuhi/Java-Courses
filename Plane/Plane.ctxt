@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Plane()
+comment1.params=
+comment1.target=void\ addPass()
+comment2.params=
+comment2.target=void\ newFC()
+comment3.params=
+comment3.target=void\ clearFC()
+comment4.params=
+comment4.target=void\ newEC()
+comment5.params=
+comment5.target=void\ clearEC()
+comment6.params=
+comment6.target=void\ printCmd()
+comment7.params=
+comment7.target=void\ printFC()
+comment8.params=
+comment8.target=void\ printEC()
+comment9.params=
+comment9.target=void\ printAll()
+numComments=10
